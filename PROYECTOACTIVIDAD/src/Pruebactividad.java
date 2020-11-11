@@ -19,6 +19,10 @@ public class Ejercicio1 {
 		//ESTE ES UN COMENTARIO PARA EL CAMBIO QUE TENEMOS
 		//QUE HACER EN EL EJERCICIO 2 PARA HACER UN COMIT.
 		
+		//ESTE ES OTRO COMENTARIO PARA EL EJERCICIO 4 QUE NO
+		//TIENE QUE CHOCAR CON LA RAMA DE PRUEBA, SI NO QUE SE
+		//GUARDARÁ EN LA MASTER.
+		
 		int numero1 = 5;
 
 	    System.out.printf("%d X 1 = %d \n", numero1, numero1*1); 
